@@ -1,3 +1,4 @@
+
 ## This is the abstract class that the students should implement
 
 from modesEnum import Modes
